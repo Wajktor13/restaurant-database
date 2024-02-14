@@ -1,6 +1,8 @@
 # Restaurant Database
 Final project from Introduction to Databases course at AGH University. Its goal was to create database system for managing a small restaurant providing services to private clients as well as businesses.
 
+Created in collaboration with [Adam0s007](https://github.com/Adam0s007) and [krzyswys](https://github.com/krzyswys).
+
 ## Diagram
 ![diagram](https://github.com/Wajktor13/restaurant-database/assets/76243064/b90c8d84-dadb-4cf3-affd-8daf622e0e9d)
 
